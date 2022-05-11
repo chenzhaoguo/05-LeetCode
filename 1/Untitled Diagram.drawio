@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T17:23:43.680Z" agent="5.0 (Windows)" etag="2pSqC9hvcdTo-48uDc1D" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T17:25:06.263Z" agent="5.0 (Windows)" etag="d-pqccP_iQG4TgUiqh3W" version="18.0.3" type="github">
   <diagram id="WPUKt3A7oiI-CKSTH1vF" name="Page-1">
     <mxGraphModel dx="1200" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,10 +25,10 @@
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-4" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="112" y="347" width="80" height="26.25" as="geometry" />
         </mxCell>
-        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-5" value="生产机" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png" vertex="1" parent="1">
+        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-5" value="生产机" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="32" y="320.12" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-6" value="生产机" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png" vertex="1" parent="1">
+        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-6" value="生产机" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="32" y="213.13" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-9" value="" style="line;strokeWidth=2;direction=north;html=1;" vertex="1" parent="1">
@@ -55,13 +55,13 @@
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-18" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="260" width="170" height="26.25" as="geometry" />
         </mxCell>
-        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-20" value="光盘库" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/cd_dvd.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-20" value="CD" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/cd_dvd.svg;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="811" y="503" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-21" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/documents.svg;labelBackgroundColor=#FF3399;" vertex="1" parent="1">
           <mxGeometry x="85" y="890" width="33" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-23" value="云存储" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-23" value="cloud" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="811" y="410" width="50" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-25" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
@@ -76,8 +76,8 @@
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-29" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.tape_record;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="811" y="595" width="56.34" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-32" value="磁带库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="815" y="642" width="50" height="20" as="geometry" />
+        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-32" value="tape" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="822" y="642" width="38" height="21" as="geometry" />
         </mxCell>
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-34" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="431.25" width="70" height="26.25" as="geometry" />
@@ -88,7 +88,7 @@
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-36" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="608.75" width="70" height="26.25" as="geometry" />
         </mxCell>
-        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-37" value="磁盘" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/Hosting_Icons/128/dedicated-server-px-png.png" vertex="1" parent="1">
+        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-37" value="disk" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/Hosting_Icons/128/dedicated-server-px-png.png;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="609" y="461" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-38" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
@@ -112,8 +112,8 @@
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-57" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.tape_record;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="615.83" y="576.88" width="56.34" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-58" value="磁带库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="619" y="622" width="50" height="20" as="geometry" />
+        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-58" value="tape" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="626" y="622" width="38" height="21" as="geometry" />
         </mxCell>
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#7EA6E0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
