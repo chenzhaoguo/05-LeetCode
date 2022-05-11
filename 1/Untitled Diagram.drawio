@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T16:50:04.050Z" agent="5.0 (Windows)" etag="SuKWpJb3ED07hRxwOr68" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T16:53:05.991Z" agent="5.0 (Windows)" etag="1IZpGLXzuGZPDMi288pD" version="18.0.3" type="github">
   <diagram id="WPUKt3A7oiI-CKSTH1vF" name="Page-1">
     <mxGraphModel dx="1520" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-36" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="608.75" width="70" height="26.25" as="geometry" />
+        </mxCell>
+        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-37" value="磁盘" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/Hosting_Icons/128/dedicated-server-px-png.png" vertex="1" parent="1">
+          <mxGeometry x="630" y="450" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
