@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T17:23:00.059Z" agent="5.0 (Windows)" etag="ZCh1OVEJxxNLpvPzSZtI" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T17:23:43.680Z" agent="5.0 (Windows)" etag="2pSqC9hvcdTo-48uDc1D" version="18.0.3" type="github">
   <diagram id="WPUKt3A7oiI-CKSTH1vF" name="Page-1">
     <mxGraphModel dx="1200" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="584" y="460" width="120" height="210.44" as="geometry" />
         </mxCell>
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-44" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=none;fontColor=#333333;strokeColor=#FF3333;strokeWidth=2;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="231.62" width="344" height="218.38" as="geometry" />
+          <mxGeometry x="249" y="231.62" width="355" height="218.38" as="geometry" />
         </mxCell>
         <mxCell id="WDFu7RG4AvuWlvJgH90q-14" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="28" y="147" width="860" height="26.25" as="geometry" />
@@ -103,8 +103,8 @@
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-49" value="归档介质" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="796" y="680" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-50" value="黑方系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="253" y="207" width="80" height="20" as="geometry" />
+        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-50" value="BlackCube" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="241" y="206" width="87" height="23" as="geometry" />
         </mxCell>
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-55" value="Master Server" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;dashPattern=1 1;labelBackgroundColor=none;fontSize=16;fontColor=#000000;strokeColor=#FF3333;strokeWidth=2;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="298.59999999999997" y="280" width="56.8" height="72" as="geometry" />
