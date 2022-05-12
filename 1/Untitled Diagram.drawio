@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T18:05:47.222Z" agent="5.0 (Windows)" etag="X7uHsCXIKIEFb4Cv4rI-" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T01:38:24.200Z" agent="5.0 (Windows)" etag="hXhAInqiut3FIcAEFwse" version="18.0.3" type="github">
   <diagram id="WPUKt3A7oiI-CKSTH1vF" name="Page-1">
-    <mxGraphModel dx="1422" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1359" dy="752" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-4" value="" style="line;strokeWidth=2;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="112" y="347" width="80" height="26.25" as="geometry" />
-        </mxCell>
-        <mxCell id="qWO8GCQ1N2hHEBJl1-c2-5" value="生产机" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;fontSize=14;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="32" y="320.12" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-6" value="生产机" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;fontSize=14;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="32" y="213.13" width="80" height="80" as="geometry" />
@@ -99,6 +96,9 @@
         </mxCell>
         <mxCell id="qWO8GCQ1N2hHEBJl1-c2-77" value="cloud" style="image;html=1;image=img/lib/clip_art/networking/Cloud_128x128.png;labelBackgroundColor=none;fontSize=14;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="412.5" width="50.83" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="mQkJP3J9dSTgJErpyEt6-1" value="Database Server" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;rounded=0;sketch=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="41.71" y="323.19" width="60.57" height="73.87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
